@@ -10,7 +10,7 @@ setup(
 		'numpy >= 1.9.2',
 		'scipy >= 0.15.1'],
 	author_email='jsiples@gmail.com',
-	description='Minimizes XRD using rietfeld refinement',
+	description='Minimizes XRD using rietveld refinement',
 	long_description=open('README.md').read(),
 	packages=['rietref'],
 	platforms='any',
